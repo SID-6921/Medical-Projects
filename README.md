@@ -42,7 +42,7 @@ To explore these projects, clone the repository and start with the notebook that
 ```bash
 git clone https://github.com/SID-6921/Medical-Projects.git
 cd Medical-Projects
-
+```
 📈 Results & Contributions
 Visualizations: Each project includes detailed visualizations of the results, helping you understand the model's predictions and performance.
 Metrics: Comprehensive evaluation metrics are provided to assess model effectiveness in real-world scenarios.
